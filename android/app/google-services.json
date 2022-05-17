@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540981457954",
+    "project_id": "image-class-mangrove",
+    "storage_bucket": "image-class-mangrove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540981457954:android:93b4b38c87914ec052467b",
+        "android_client_info": {
+          "package_name": "com.olympustech.mangrove_classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540981457954-rhjm0vkkf15aikinr6l9auu80r3nbmt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgapCYqsFCyDpqnyXav_8fCje8_XOgmw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540981457954-rhjm0vkkf15aikinr6l9auu80r3nbmt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
