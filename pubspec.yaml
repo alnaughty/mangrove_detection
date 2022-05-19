@@ -38,6 +38,7 @@ dependencies:
   meta: ^1.7.0
   page_transition: ^2.0.5
   rxdart: ^0.27.3
+  syncfusion_flutter_maps: ^20.1.56
   tflite: ^1.1.2
 
 dev_dependencies:
