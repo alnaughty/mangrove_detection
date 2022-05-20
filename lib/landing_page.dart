@@ -74,8 +74,8 @@ class _LandingPageState extends State<LandingPage> {
 
   loadModel() async {
     var result = await Tflite.loadModel(
-      model: "assets/model_unquant.tflite",
-      labels: "assets/label.txt",
+      model: "assets/newmodelmangrove.tflite",
+      labels: "assets/labels.txt",
     );
     print("RESULT LOADING : $result");
   }
